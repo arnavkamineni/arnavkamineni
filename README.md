@@ -8,6 +8,8 @@ Reach out: <arnav.kamineni@berkeley.edu>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-1c1b19?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arnavkamineni.github.io)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavkamineni/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arnav.kamineni/)
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31ig6zqcshhgvre4ukvexrcii4oy)
 
 ## Languages and Tools
 
@@ -18,6 +20,6 @@ Reach out: <arnav.kamineni@berkeley.edu>
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Currently building
+## Now Playing
 
-**Gomoku AI** — a minimax-powered Gomoku opponent with alpha-beta pruning and a Java Graphics board.
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31ig6zqcshhgvre4ukvexrcii4oy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://open.spotify.com/user/31ig6zqcshhgvre4ukvexrcii4oy)
