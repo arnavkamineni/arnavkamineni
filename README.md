@@ -1,4 +1,4 @@
-# Hi, I'm [Arnav](https://github.com/arnavkamineni) :)
+# Hi, I'm [Arnav](https://github.com/arnavkamineni)
 
 I'm an incoming EECS student at UC Berkeley. 
 
