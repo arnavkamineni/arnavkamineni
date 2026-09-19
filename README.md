@@ -1,6 +1,6 @@
 # Hi, I'm [Arnav](https://github.com/arnavkamineni)
 
-I'm an incoming EECS student at UC Berkeley. 
+I'm an EECS student at UC Berkeley. 
 
 Reach out: <arnav.kamineni@berkeley.edu>
 
